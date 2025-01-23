@@ -1,4 +1,4 @@
-package AMP;
+package com.github.roknikolic;
 
 import processing.core.PApplet;
 
